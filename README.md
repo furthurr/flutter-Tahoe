@@ -252,4 +252,9 @@ flutter run
 
 ---
 
+## Autor
+Pedro G.V. @furthurr
+
+---
+
 
